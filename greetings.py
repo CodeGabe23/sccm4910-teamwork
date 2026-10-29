@@ -1,3 +1,5 @@
+#!/bin/python3
+
 """SCCM4910 Lab 4 - shared greetings file.
 
 Each student adds ONE greeting line below the marker, on their own branch,
